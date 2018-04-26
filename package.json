@@ -1,0 +1,25 @@
+{
+  "name": "nodeshizhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "enjoy-babel": "^0.1.1",
+    "mysql": "^2.15.0",
+    "path-to-regexp": "^2.2.0",
+    "user": "0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/achillesz/nodejsshizhan1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achillesz/nodejsshizhan1/issues"
+  },
+  "homepage": "https://github.com/achillesz/nodejsshizhan1#readme"
+}
