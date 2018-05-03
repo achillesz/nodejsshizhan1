@@ -4,8 +4,8 @@ var mysql = require('mysql');
 
 var db = mysql.createConnection({
     host: '127.0.0.1',
-    user: 'myuser',
-    password: 'mypassword',
+    user: 'root',
+    password: 'root',
     database: 'timetrack'
 });
 
