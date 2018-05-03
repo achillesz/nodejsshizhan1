@@ -5,9 +5,14 @@ var mysql = require('mysql');
 var db = mysql.createConnection({
     host: '127.0.0.1',
     user: 'root',
+<<<<<<< HEAD
     password: '12345678',
     database: 'timetrack',
     insecureAuth : true
+=======
+    password: 'root',
+    database: 'timetrack'
+>>>>>>> 49614cad2496082a0556779a8e89d51beb02f315
 });
 
 
